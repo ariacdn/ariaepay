@@ -1,0 +1,26 @@
+{
+  "name": "ariaepay",
+  "title": "ariaepay",
+  "description": "ariaepay JavaScript library",
+  "version": "1",
+  "main": "neo.js",
+  "author": {
+    "name": "JS Foundation and other contributors",
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ariacdn/ariaepay.git"
+  },
+  "keywords": [
+    "jquery",
+    "javascript",
+    "browser",
+    "library"
+  ],
+  "bugs": {
+    "url": "https://github.com/ariacdn/ariaepay/issues"
+  },
+  "license": "MIT",
+  "dependencies": {},
+
+}
